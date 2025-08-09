@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOP 10\\source\\repos\\3#3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B766DF-9227-48C2-A869-5F513414D40B}|3#3\\3#3.vcxproj|C:\\Users\\TOP 10\\source\\repos\\3#3\\3#3\\3#3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80B766DF-9227-48C2-A869-5F513414D40B}|3#3\\3#3.vcxproj|solutionrelative:3#3\\3#3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3#3.cpp",
+              "DocumentMoniker": "C:\\Users\\TOP 10\\source\\repos\\3#3\\3#3\\3#3.cpp",
+              "RelativeDocumentMoniker": "3#3\\3#3.cpp",
+              "ToolTip": "C:\\Users\\TOP 10\\source\\repos\\3#3\\3#3\\3#3.cpp",
+              "RelativeToolTip": "3#3\\3#3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T11:04:16.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
